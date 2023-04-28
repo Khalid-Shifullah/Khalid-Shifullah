@@ -68,7 +68,7 @@ Hi, I'm Khalid Shifullah!
 
     ## Let's Work on Your Project Together!
 
-    If you have any questions about me contact me through email.
+    If you have any questions about me, contact through email.
   </td>
   </tr>
 </table>
