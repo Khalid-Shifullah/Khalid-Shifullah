@@ -15,8 +15,30 @@ Hi, I'm Khalid Shifullah!
 💻 Currently working as a Trainee Software Engineer (Java EE) in BJIT GROUP
 📝 Working experience with ML and NLP
 🌟 Main languages: Java, Python, JavaScript
+</pre
+
+
+## 🏆  HONORS & AWARDS
+<pre>
+- VC’s List
+- Dean’s List
+- Merit based scholarship for multiple semesters
 </pre>
 <hr>
+
+## 🤹 HOBBIES & INTERESTS
+<pre>
+- Gaming
+- Cooking
+- History
+</pre>
+
+## 💻 LANGUAGES
+<pre>
+- English
+- Bengali
+- Basic French
+</pre>
 
 ## 🤝 Connect with me
 <p align="center">
