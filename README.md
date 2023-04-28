@@ -16,9 +16,12 @@ Hi, I'm Khalid Shifullah!
 📝 Working experience with ML and NLP
 🌟 Main languages: Java, Python, JavaScript
 </pre
+<hr>
 
+<hr>
 
-## 🏆  HONORS & AWARDS
+<h2>🏆 HONORS AND AWARDS </h2>
+
 <pre>
 - VC’s List
 - Dean’s List
@@ -26,19 +29,21 @@ Hi, I'm Khalid Shifullah!
 </pre>
 <hr>
 
-## 🤹 HOBBIES & INTERESTS
+## 🤹‍♂️ HOBBIES & INTERESTS
 <pre>
 - Gaming
 - Cooking
 - History
 </pre>
+<hr>
 
-## 💻 LANGUAGES
+## 📘 LANGUAGES
 <pre>
 - English
 - Bengali
 - Basic French
 </pre>
+<hr>
 
 ## 🤝 Connect with me
 <p align="center">
@@ -88,7 +93,7 @@ Hi, I'm Khalid Shifullah!
   <tr>
   <td width="20%" valign="top">
 
-    ## Let's Work on Your Project Together!
+			      <h3> Lets work together! </h3>
 
     If you have any questions about me, contact through email.
   </td>
