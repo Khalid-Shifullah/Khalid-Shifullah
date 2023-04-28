@@ -92,10 +92,7 @@ Hi, I'm Khalid Shifullah!
 <table style="border: none">
   <tr>
   <td width="20%" valign="top">
-
-			      <h3> Lets work together! </h3>
-
-    If you have any questions about me, contact through email.
+	Thank You for visiting my profile!
   </td>
   </tr>
 </table>
