@@ -68,7 +68,7 @@ Hi, I'm Khalid Shifullah!
     <a href="https://github.com/Khalid-Shifullah"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/Khalid-Shifullah"><img alt="Bootstrap" src="https://img.shields.io/badge/Boostrap%20-%23FF6F00.svg?logo=bootstrap&logoColor=white"></a>
     <a href="https://github.com/Khalid-Shifullah"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/Khalid-Shifullah"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+
 </p>
 
 ### 🗄️ Databases
