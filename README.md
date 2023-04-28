@@ -68,7 +68,7 @@ Hi, I'm Khalid Shifullah!
 
     ## Let's Work on Your Project Together!
 
-    If you have any questions about me contact me through <a href="mailto:khalid.shifullah@bjitacademy.com">email</a> me.
+    If you have any questions about me contact me through email.
   </td>
   </tr>
 </table>
