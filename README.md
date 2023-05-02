@@ -10,12 +10,13 @@ Hi, I'm Khalid Shifullah!
 
 
 ## 💻 About Me
-<pre>
+<pre> <h4>
 - I am a recently graduated from Brac University after completing my BSc. in Computer Science and Engineering
 - Currently working as a Trainee Software Engineer (Java EE) in BJIT GROUP
 - Working experience with ML and NLP
 - Main languages: Java, Python, JavaScript
 </pre
+</h4>
 <hr>
 
 <hr>
