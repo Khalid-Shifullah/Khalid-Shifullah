@@ -19,7 +19,8 @@ Hi, I'm Khalid Shifullah!
 </h4>
 <hr>
 
-<hr>
+
+
 
 <h2>🏆 HONORS AND AWARDS </h2>
 
@@ -44,6 +45,107 @@ Hi, I'm Khalid Shifullah!
 - Bengali
 - Basic French
 </pre>
+<hr>
+
+# 💻 PERSONAL PROJECTS
+<hr>
+
+## 🌞 Weather Today - Flutter App with API
+
+### Description
+A Flutter application that provides weather information based on user's location. It uses Geolocator to get user's location and OpenWeatherMap API to fetch weather data. The app displays weather information such as temperature, humidity, wind speed, and weather condition.
+
+### Features
+- Get user's location using Geolocator.
+- Fetch weather data from OpenWeatherMap API.
+- Display weather information such as temperature, humidity, wind speed, and weather condition.
+
+### Technologies
+- Flutter
+- Geolocator
+- OpenWeatherMap API
+- Asynchronous and Future
+- Flutter HTTP package
+
+### Github
+Link: 
+
+<hr> 
+
+## 🧮 Day Counter - Flutter App
+
+### Description
+A Flutter application that allows users to calculate days between two dates provided by the user. The app also displays the number of years, months, and days between the two dates.
+
+### Features
+- Calculate days between two dates provided by user.
+- Display number of years, months, and days between the two dates.
+
+### Technologies
+- Flutter
+- Customising widgets
+- Reusable Components
+- Routes and Navigation
+
+### Github
+Link:
+<hr>
+
+## 🥋 E-commerce Website
+
+### Description
+An e-commerce website built using HTML, CSS, and Bootstrap. The website is responsive and provides an easy-to-use interface for customers to browse products and make purchases.
+
+### Features
+- Browse products
+- Add products to cart
+- Make purchases
+
+### Technologies
+- HTML
+- CSS
+- Bootstrap
+
+<hr>
+
+# 📚 PUBLICATIONS
+
+<hr>
+
+## 📕 Bangla Song Classification - Machine Learning
+
+### Description
+A machine learning project that uses transformer models like XLM-RoBERTa and Bangla-BERT-base to classify Bangla songs.
+
+### Technologies
+- Machine Learning
+- Transformer models
+- XLM-RoBERTa
+- Bangla-BERT-base
+
+### Github
+Link: 
+
+<hr>
+
+## 📖 Hotel Review Classification - Machine Learning
+
+### Description
+A machine learning project that classifies hotel reviews using NLP techniques like Bag-of-words and TF-IDF vectorization. The project uses SVM, Logistic Regression, Naive Bayes, and Random Forest algorithms.
+
+### Technologies
+- Machine Learning
+- Natural Language Processing
+- Bag-of-words
+- TF-IDF vectorization
+- SVM
+- Logistic Regression
+- Naive Bayes
+- Random Forest
+
+### Github
+Link: 
+
 <hr>
 
 ## 🤝 Connect with me
