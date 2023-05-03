@@ -22,7 +22,7 @@ Hi, I'm Khalid Shifullah!
 
 
 
-<h2> 🏆 HONORS AND AWARDS </h2>
+<h1> 🏆 HONORS AND AWARDS </h1>
 
 <pre>
 - VC’s List
