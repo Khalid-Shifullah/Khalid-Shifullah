@@ -9,7 +9,7 @@ Hi, I'm Khalid Shifullah!
 </p>
 
 
-## 💻 About Me
+# 💻 About Me
 <pre> <h4>
 - I am a recently graduated from Brac University after completing my BSc. in Computer Science and Engineering
 - Currently working as a Trainee Software Engineer (Java EE) in BJIT GROUP
@@ -31,7 +31,7 @@ Hi, I'm Khalid Shifullah!
 </pre>
 <hr>
 
-## 🤹‍♂️ HOBBIES & INTERESTS
+# 🤹‍♂️ HOBBIES & INTERESTS
 <pre>
 - Gaming
 - Cooking
@@ -39,7 +39,7 @@ Hi, I'm Khalid Shifullah!
 </pre>
 <hr>
 
-## 📘 LANGUAGES
+# 📘 LANGUAGES
 <pre>
 - English
 - Bengali
